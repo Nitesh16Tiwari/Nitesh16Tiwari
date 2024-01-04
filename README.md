@@ -1,3 +1,4 @@
+![logo](https://github.com/Nitesh16Tiwari/Nitesh-Tiwari/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nitesh Tiwari</h1>
 <h3 align="center">Passionate About Building Innovative Solutions</h3>
 
