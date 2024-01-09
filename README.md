@@ -1,9 +1,12 @@
 ![logo](https://github.com/Nitesh16Tiwari/Nitesh-Tiwari/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 
-<h1 align="center">Hi 👋, I'm Nitesh Tiwari</h1>
-<h3 align="center">Passionate About Building Innovative Solutions</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh16tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh16tiwari" /> </p>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
+<h1 align="center">Hi 👋, I'm Nitesh Tiwari</h1>
+<h3 align="center">Passionate About Building Innovative Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh16tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh16tiwari" /> </p>
 
